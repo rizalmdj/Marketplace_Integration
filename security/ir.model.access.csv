@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_marketplace__integration_marketplace__integration,marketplace__integration.marketplace__integration,model_marketplace__integration_marketplace__integration,,1,0,0,0
